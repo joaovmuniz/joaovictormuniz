@@ -1,4 +1,4 @@
-# Olá, eu sou o João Victor Muniz, desenvolvedor Full Stack!
+# Olá, eu sou o João Victor Muniz! Desenvolvedor Full Stack.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="jvm-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
