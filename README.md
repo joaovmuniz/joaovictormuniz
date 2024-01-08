@@ -4,8 +4,6 @@
   <img align="center" alt="jvm-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="jvm-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"> 
   <img align="center" alt="jvm-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="jvm-Ts" height="30" width="40" src="http://www.w3.org/2000/svg](https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1">
-  <img align="center" alt="jvm-React" height="30" width="40" src="http://www.w3.org/2000/svg">
 </div>
   
   ##
